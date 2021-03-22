@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Gianfranco99/Gianfranco99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gianfranco99/Gianfranco99** is a ✨ _special_[tano_virtual_card.pdf](https://github.com/Gianfranco99/Gianfranco99/files/6185240/tano_virtual_card.pdf)
+ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
