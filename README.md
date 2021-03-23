@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gianfranco Benvenuto</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gianfranco99&label=Profile%20views&color=0e75b6&style=flat" alt="gianfranco99" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gianfranco99&label=Profile%20views&color=0e75b6&style=flat" alt="gianfranco99" /> 
+Me apasiona la programación con la cual a través de esfuerzo y constancia se puedan resolver desafíos o conflictos.
+Con mis 20 años he aprendido varias herramientas para poder programar con decisión y fluidez.
+</p>
+  
 - 🔭 I’m currently working on **Virtual Wallet/React Native**
 
 - 🌱 I’m currently learning **Php**
