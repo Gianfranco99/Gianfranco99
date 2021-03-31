@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianfranco99&label=Profile%20views&color=0e75b6&style=flat" alt="gianfranco99" /> </p>
-<p align="center">Me apasiona la programación con la cual a través de esfuerzo y constancia se puedan resolver desafíos o conflictos.</p>
-<p align="center">Con mis 20 años he aprendido varias herramientas para poder programar con decisión y fluidez.</p>
+<p align="center">I am passionate about programming with which, through effort and perseverance, challenges or conflicts can be resolved.</p>
+<p align="center">With my 20 years I have learned several tools to be able to program decisively and fluently.</p>
 
 
   
