@@ -7,9 +7,9 @@
 
 
   
-- 🔭 I’m currently working on **Virtual Wallet/React Native**
+- 🔭 I’m currently working on **SigoSeguors**
 
-- 🌱 I’m currently learning **Php**
+- 🌱 I’m currently learning **Rust,Cairo and Starknet**
 
 - 💬 Ask me about **React,Javascript,Redux**
 
