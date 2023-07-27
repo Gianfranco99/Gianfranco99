@@ -7,7 +7,7 @@
 
 
   
-- 🔭 I’m currently working on **SigoSeguors**
+- 🔭 I’m currently working on **SigoSeguros.com**
 
 - 🌱 I’m currently learning **Rust,Cairo and Starknet**
 
