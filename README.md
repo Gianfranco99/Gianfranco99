@@ -7,11 +7,9 @@
 
 
   
-- 🔭 I’m currently working on **SigoSeguros.com**
 
-- 🌱 I’m currently learning **Rust,Cairo and Starknet**
+ **Rust,Cairo and Starknet**
 
-- 💬 Ask me about **React,Javascript,Redux**
 
 - 📫 How to reach me **https://www.linkedin.com/in/gianfranco-benvenuto-a51037202/**
 
